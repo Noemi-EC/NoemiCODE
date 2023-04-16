@@ -30,7 +30,6 @@ function encriptar(evento){
         break;
     }
   }
-  
   document.getElementById('texto-output').value = lista.join('');
 }
 
@@ -60,21 +59,11 @@ function desencriptar(evento){
 }
 
 function limpiar(evento){
-  console.log('limpiando');
   document.getElementById('texto-input').value = '';
   document.getElementById('texto-output'). value = '';
 }
 
 btnEnc.onclick = encriptar;
-// btnLimpiar.addEventListener('click', limpiar);
 btnCopiar.onclick = copiar;
-
 btnDes.onclick = desencriptar;
-
 btnLimpiar.onclick = limpiar;
-// verifica si tiene aun una vocal para reemplazar
-/*
-let myRegex = /[aeiou]/gi;
-let result = algo.match(myRegex);
-console.log(result);
-*/
