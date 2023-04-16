@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+}
+body{
+    background: #01011E;
+}
+header{
+    width: 100vw;
+    height: 20%;
+    /* background-color: antiquewhite; */
+    padding: 15px;
+    display: flex;
+}
+.logo{
+    width: 80px;
+    height: 80px;
+    margin: auto;
+    /* margin-left: 30px; */
+}
+#contenedor-codigo{
+    width: 100vw;
+    height: 65%;
+    display: flex;
+    /* background-color: antiquewhite; */
+    justify-content: space-between;
+    align-content: center;
+    padding: 0 10%;
+}
+#texto-input, #texto-output{
+    width: 350px;
+    height: 400px;
+    background: #01011E;
+    border: 1px solid #93FFD8;
+    color: whitesmoke;
+    resize: none;
+    padding: 30px;
+    font-size: 20px;
+}
+#texto-input:focus-within, #texto-output:focus-within{
+    border-width: 2px;
+    border-color: #93FFD8;
+}
+.img-decoration{
+    /* width: 204px; */
+    width: 26%;
+    /* height: 204px; */
+    align-self: center;
+    margin: 10px;
+}
+button{
+    border: none;
+}
+#limpiar, #copiar{
+    background-color: #4a807b;
+    color: #E3E3E3;
+    width: 280px;
+    height: 65px;
+    transition: 1s;
+}
+#limpiar:hover, #copiar:hover{
+    background-color: #76ccb3;
+    transition: 1s;
+    color: #01011E;
+}
+#encriptar, #desencriptar{
+    background-color: #76ccb3;
+    color: #01011E;
+    width: 300px;
+    height: 65px;
+    transition: 1s;
+    font-weight: 600;
+}
+#encriptar:hover, #desencriptar:hover{
+    background-color: #93ffdf;
+    transition: 1s;
+    font-size: 19px;
+}
+.prueba{
+    color: whitesmoke;
+}
+.botones-secundarios, .botones-principales{
+    display: flex;   
+    justify-content: space-around;
+    align-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 20px 10px 0 0;
+}
