@@ -173,7 +173,7 @@ footer > img{
         "btns"
         "n2"
         "n2";   
-        background-color: antiquewhite;
+        /* background-color: antiquewhite; */
         grid-gap: 10px;
         margin-top: 6%;
     }
