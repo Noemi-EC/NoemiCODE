@@ -27,13 +27,9 @@
 - Agregar botón para copiar texto.
 
 ## Diseños
-#### Vista para Escritorio
-[id]: /img/Layouts/Desktop.png "Desktop"
-#### Vista para Tableta
-[id]: /img/Layouts/Tableta.png "Tableta"
-#### Vista para Móvil
-[id]: /img/Layouts/Movil.png "Móvil"
-
+* [Vista para Escritorio](/img/Layouts/Desktop.png)
+* [Vista para Tableta](/img/Layouts/Tableta.png)
+* [Vista para Móvil](/img/Layouts/Movil.png)
 
 ## Recursos
 * [Markdown](https://github.com/ricval/Documentacion/blob/master/Markdown/daringfireball/basics.md)
