@@ -24,9 +24,9 @@ Puede visualizar la página web [aquí](https://noemi-ec.github.io/NoemiCODE/).
   > gaitober" => "gato"
 
 #### No funcionales
-- Agregar botón para limpiar campos.
+- Botón para limpiar campos.
 
-- Agregar botón para copiar texto.
+- Botón para copiar texto.
 
 ## Diseños
 * [Vista para Escritorio](/img/Layouts/Desktop.png)
