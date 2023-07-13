@@ -206,7 +206,7 @@ footer > img{
         justify-content: space-between;
     }
     .botones-among-secundarios {
-        width: 43%;
+        width: 50%;
         display: flex;
         flex-direction: column;
         justify-content: space-between;
