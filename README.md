@@ -1,6 +1,8 @@
 #### ONE, Oracle + Alura
 # Challenge Sprint 01: Encriptador de texto con JavaScript.
 
+<center><img src="/img/Layouts/Desktop.png" width="550" alt="Vista de Escritorio" /></center>
+
 ## Descripción del proyecto
 El Encriptador de texto con JavaScript pone en práctica los conocimientos vistos en la formación del Programa ONE (primera parte); exponiendo las habilidades en JavaScript, CSS y HTML. Dicho proyecto posee cuadros de entrada y de salida en donde se muestra el texto a encriptar y desencriptar respectivamente, los cuales son procesados y mostrados por medio la lógica de programación a través de botones "Encriptar" y "Desencriptar", además de algunas funcionalidades extra que mejoran la experiencia del usuario.
 
